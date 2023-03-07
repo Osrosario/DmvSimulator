@@ -34,7 +34,7 @@ class DmvSimulator
             System.out.println("Number " + calledNum + ", please come to Window " + windowNum + ".");
             calledNum++;
             windowNum++;
-            //Thread.sleep(1000);
+            Thread.sleep(1000);
         }
         
         System.out.println("\nNumber " + calledNum + ", please come to Window " + windowNum + ".");
