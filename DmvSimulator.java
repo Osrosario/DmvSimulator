@@ -21,7 +21,7 @@ class DmvSimulator
         
         while (calledNum != randomNum)
         {
-            if (calledNum > 100)
+            if (calledNum > 200)
             {
                 calledNum = 0;
             }
