@@ -11,7 +11,7 @@ class DmvSimulator
         System.out.println("\nLet me give you a ticket that'll keep you here forever...");
         Thread.sleep(5000);
 
-        int randomNum = random.nextInt(200) + 1;
+        int randomNum = random.nextInt(100) + 1;
         
         System.out.println("Your number is " + randomNum + ". Wow! That sucks! We just called that number. Looks like you'll have to wait. I hope you brought something to read! Have a seat.\n");
         Thread.sleep(5000);
@@ -21,7 +21,7 @@ class DmvSimulator
         
         while (calledNum != randomNum)
         {
-            if (calledNum > 200)
+            if (calledNum > 100)
             {
                 calledNum = 0;
             }
