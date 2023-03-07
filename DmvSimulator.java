@@ -47,7 +47,7 @@ class DmvSimulator
         Thread.sleep(3000);
         System.out.println("Looks like you'll have come back and get in line!");
         Thread.sleep(3000);
-        System.out.println("MUHAHAHA! Your despair feeds our inefficient customer service! Begone!");
+        System.out.println("MUHAHAHAAHAHHAHAHAHAHAHAHAHAHHAHAAHAHAhahahahAHAHAHAHaahahahAHAHHA! Your despair feeds our inefficient customer service! Begone foul beast!");
         Thread.sleep(3000);
     }
 }
