@@ -47,7 +47,7 @@ class DmvSimulator
             System.out.println("\nYou hand in your paperwork...");
             System.out.println("\nYou really waited all this time and don't even have the correct paperwork?? Shame...");
             System.out.println("Looks like you'll have come back and get in line!");
-            System.out.println("MUHAHAHA! Your despair feeds our inefficient customer service! Begone!");
+            System.out.println("MUHAHAHAAHAHHAHAHAHAHAHAHAHAHHAHAAHAHAhahahahAHAHAHAHaahahahAHAHHA! Your despair feeds our inefficient customer service! Begone foul beast!");
         }
     }
 }
