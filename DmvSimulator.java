@@ -43,7 +43,7 @@ class DmvSimulator
         Thread.sleep(5000);
         System.out.println("\nYou hand in your paperwork...");
         Thread.sleep(3000);
-        System.out.println("\nHmm... It seems you don't have the required paperwork.");
+        System.out.println("\nYou really waited all this time and don't even have the correct paperwork?? Shame...");
         Thread.sleep(3000);
         System.out.println("Looks like you'll have come back and get in line!");
         Thread.sleep(3000);
